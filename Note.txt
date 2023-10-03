@@ -1,0 +1,6 @@
+Note:-
+
+
+1. I have two model files but I forget to convert them into pickle format. I tries to run again the complete code but exhausted of google colab GPU. Hence,I am sharing the two model file ,one is in the ".pth" format and another is in ".pt".So, I request you to please consider the same.
+
+2. The accuracy score on headline/title generation is very less.The reason because when I was fine tuning it on a large number of epochs,the GPU and the RAM was getting exhausted. So, I could just trained it only for 1-2 epoch.
